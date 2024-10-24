@@ -3,7 +3,6 @@ package com.ahmadnemati.clickablewebview;
 import android.annotation.TargetApi;
 import android.content.Context;
 import android.os.Build;
-import android.support.annotation.RequiresApi;
 import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
@@ -44,7 +43,6 @@ public class ClickableWebView extends WebView implements View.OnClickListener, V
         init();
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.HONEYCOMB)
     public ClickableWebView(Context context, AttributeSet attrs, int defStyleAttr, boolean privateBrowsing) {
         super(context, attrs, defStyleAttr, privateBrowsing);
         init();

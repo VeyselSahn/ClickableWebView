@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ClickableWebViewApp.iml" filepath="$PROJECT_DIR$/ClickableWebViewApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/clickablewebview/clickablewebview.iml" filepath="$PROJECT_DIR$/clickablewebview/clickablewebview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ClickableWebView.iml" filepath="$PROJECT_DIR$/.idea/modules/ClickableWebView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ClickableWebView.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ClickableWebView.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ClickableWebView.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ClickableWebView.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ClickableWebView.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ClickableWebView.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ClickableWebView.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ClickableWebView.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clickablewebview/ClickableWebView.clickablewebview.iml" filepath="$PROJECT_DIR$/.idea/modules/clickablewebview/ClickableWebView.clickablewebview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clickablewebview/ClickableWebView.clickablewebview.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/clickablewebview/ClickableWebView.clickablewebview.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clickablewebview/ClickableWebView.clickablewebview.main.iml" filepath="$PROJECT_DIR$/.idea/modules/clickablewebview/ClickableWebView.clickablewebview.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clickablewebview/ClickableWebView.clickablewebview.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/clickablewebview/ClickableWebView.clickablewebview.unitTest.iml" />
     </modules>
   </component>
 </project>
